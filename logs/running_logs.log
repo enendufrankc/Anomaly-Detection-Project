@@ -142,3 +142,117 @@ x==========x]
 [2024-01-03 15:13:18,414: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-01-03 15:24:07,754: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 15:25:47,381: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 15:25:47,385: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 15:25:47,388: INFO: common: created directory at: artifacts]
+[2024-01-03 15:25:47,390: INFO: common: created directory at: artifacts/data_validation]
+[2024-01-03 15:43:34,630: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 15:44:26,288: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 15:46:39,399: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 15:46:40,558: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-01-03 15:46:40,562: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 15:46:40,562: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 15:46:40,562: INFO: common: created directory at: artifacts]
+[2024-01-03 15:46:40,562: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-03 15:46:40,566: ERROR: main: 'DataValiadtion' object has no attribute 'download_file']
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\1. Projects\Bodycode-Anomaly-Detection-Project\main.py", line 11, in <module>
+    obj.main()
+  File "c:\users\lenovo\1. projects\bodycode-anomaly-detection-project\src\bodycoteAnomalyDetection\pipeline\stage_02_data_validation.py", line 16, in main
+    data_validation.download_file()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataValiadtion' object has no attribute 'download_file'
+[2024-01-03 15:49:43,172: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 15:49:45,244: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-03 15:49:45,247: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 15:49:45,247: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 15:49:45,250: INFO: common: created directory at: artifacts]
+[2024-01-03 15:49:45,250: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-03 15:49:47,222: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 2379510
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "261a5cdab83c381b369cd4921b46b489e8c9c1bfdc4e3dcdd273e889f9a48b39"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F580:36B05:17A8010:18A263A:65958212
+Accept-Ranges: bytes
+Date: Wed, 03 Jan 2024 15:49:47 GMT
+Via: 1.1 varnish
+X-Served-By: cache-man4127-MAN
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1704296988.503382,VS0,VE312
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: aaddce65da82c9b096194e09c38f74edf0dd82b1
+Expires: Wed, 03 Jan 2024 15:54:47 GMT
+Source-Age: 0
+
+]
+[2024-01-03 15:49:47,375: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-03 15:49:47,375: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-01-03 15:49:47,378: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 15:49:47,380: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 15:49:47,381: INFO: common: created directory at: artifacts]
+[2024-01-03 15:49:47,381: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-03 15:49:47,382: ERROR: main: 'DataValiadtion' object has no attribute 'download_file']
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\1. Projects\Bodycode-Anomaly-Detection-Project\main.py", line 20, in <module>
+    obj.main()
+  File "c:\users\lenovo\1. projects\bodycode-anomaly-detection-project\src\bodycoteAnomalyDetection\pipeline\stage_02_data_validation.py", line 16, in main
+    data_validation.download_file()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataValiadtion' object has no attribute 'download_file'
+[2024-01-03 15:52:14,347: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 15:52:17,101: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-03 15:52:17,109: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 15:52:17,114: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 15:52:17,118: INFO: common: created directory at: artifacts]
+[2024-01-03 15:52:17,120: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-03 15:52:19,894: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 2379510
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "261a5cdab83c381b369cd4921b46b489e8c9c1bfdc4e3dcdd273e889f9a48b39"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F580:36B05:17A8010:18A263A:65958212
+Accept-Ranges: bytes
+Date: Wed, 03 Jan 2024 15:52:20 GMT
+Via: 1.1 varnish
+X-Served-By: cache-man4123-MAN
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1704297141.634920,VS0,VE3
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: faf03dec93b41ef5c9a65c12d752bdce90435c6a
+Expires: Wed, 03 Jan 2024 15:57:20 GMT
+Source-Age: 153
+
+]
+[2024-01-03 15:52:20,162: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-03 15:52:20,162: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-01-03 15:52:20,170: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 15:52:20,176: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 15:52:20,178: INFO: common: created directory at: artifacts]
+[2024-01-03 15:52:20,186: INFO: common: created directory at: artifacts/data_validation]
+[2024-01-03 15:52:20,198: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
