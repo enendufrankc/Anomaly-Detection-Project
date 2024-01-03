@@ -1,6 +1,6 @@
-from src.bodycoteAnomalyDetection.config.configuration import ConfigurationManager
-from src.bodycoteAnomalyDetection.components.data_ingestion import DataIngestion
-from src.bodycoteAnomalyDetection import logger
+from bodycoteAnomalyDetection.config.configuration import ConfigurationManager
+from bodycoteAnomalyDetection.components.data_ingestion import DataIngestion
+from src.bodycoteAnomalyDetection.logging import logger
 
 
 STAGE_NAME = "Data Ingestion stage"

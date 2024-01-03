@@ -87,3 +87,58 @@ x==========x]
 [2024-01-03 10:14:27,615: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-01-03 10:16:21,933: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-03 10:16:21,933: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 10:16:21,939: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 10:16:21,939: INFO: common: created directory at: artifacts]
+[2024-01-03 10:16:21,942: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-03 10:16:24,812: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 2379510
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "261a5cdab83c381b369cd4921b46b489e8c9c1bfdc4e3dcdd273e889f9a48b39"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 89EC:31F917:2AB54BE:2CA6876:659533F8
+Accept-Ranges: bytes
+Date: Wed, 03 Jan 2024 10:16:25 GMT
+Via: 1.1 varnish
+X-Served-By: cache-man4122-MAN
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1704276985.017170,VS0,VE422
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 14b27b5fcd332a4756e3fbf43699cf019148d705
+Expires: Wed, 03 Jan 2024 10:21:25 GMT
+Source-Age: 0
+
+]
+[2024-01-03 10:16:25,093: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-03 10:17:26,946: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-03 10:17:26,954: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 10:17:26,962: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 10:17:26,963: INFO: common: created directory at: artifacts]
+[2024-01-03 10:17:26,967: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-03 10:17:26,969: INFO: data_ingestion: File already exists of size: ~ 2324 KB]
+[2024-01-03 10:17:27,381: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-03 11:57:38,169: INFO: main: Hello World]
+[2024-01-03 15:13:16,925: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 15:13:18,264: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-03 15:13:18,267: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 15:13:18,269: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 15:13:18,269: INFO: common: created directory at: artifacts]
+[2024-01-03 15:13:18,269: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-03 15:13:18,272: INFO: data_ingestion: File already exists of size: ~ 2324 KB]
+[2024-01-03 15:13:18,414: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]

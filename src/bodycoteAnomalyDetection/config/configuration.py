@@ -1,6 +1,6 @@
-from src.bodycoteAnomalyDetection.constants import *
-from src.bodycoteAnomalyDetection.utils.common import read_yaml, create_directories
-from src.bodycoteAnomalyDetection.entity.config_entity import DataIngestionConfig
+from bodycoteAnomalyDetection.constants import *
+from bodycoteAnomalyDetection.utils.common import read_yaml, create_directories
+from bodycoteAnomalyDetection.entity.config_entity import DataIngestionConfig
 
 
 class ConfigurationManager:

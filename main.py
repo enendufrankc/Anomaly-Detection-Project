@@ -1,6 +1,6 @@
-from bodycoteAnomalyDetection import logger
+from bodycoteAnomalyDetection.logging import logger
 
-from src.bodycoteAnomalyDetection.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
+from bodycoteAnomalyDetection.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
 
 
 STAGE_NAME = "Data Ingestion stage"

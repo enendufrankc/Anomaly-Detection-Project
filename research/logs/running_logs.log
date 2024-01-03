@@ -1,0 +1,6 @@
+[2024-01-03 12:44:35,613: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 12:52:07,515: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 12:52:07,528: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 12:52:07,531: INFO: common: created directory at: artifacts]
+[2024-01-03 12:52:07,534: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-03 12:52:07,537: INFO: 4037744573: File already exists of size: ~ 2324 KB]

@@ -1,12 +1,10 @@
 import os
 import urllib.request as request
 import zipfile
-from src.bodycoteAnomalyDetection import logger
-from src.bodycoteAnomalyDetection.utils.common import get_size
-from src.bodycoteAnomalyDetection.entity.config_entity import DataIngestionConfig
+from bodycoteAnomalyDetection.logging import logger
+from bodycoteAnomalyDetection.utils.common import get_size
+from bodycoteAnomalyDetection.entity.config_entity import DataIngestionConfig
 from pathlib import Path
-
-
 
 class DataIngestion:
     def __init__(self, config: DataIngestionConfig):

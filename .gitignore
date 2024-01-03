@@ -127,3 +127,4 @@ mlruns/
 # Ignore model files - these can be large and are typically not committed to git
 *.h5
 *.pkl
+artifacts/*
