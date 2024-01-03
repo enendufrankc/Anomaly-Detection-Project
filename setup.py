@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Bodycode-Anomaly-Detection-Project"
 AUTHOR_USER_NAME = "enendufrankc"
-SRC_REPO = "Bodycode-Anomaly-Detection-Project"
+SRC_REPO = "bodycoteAnomalyDetection"
 AUTHOR_EMAIL = "enendufrankc@gmail.com"
 
 

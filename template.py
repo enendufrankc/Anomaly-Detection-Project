@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "Bodycode-Anomaly-Detection-Project"
+project_name = "bodycoteAnomalyDetection"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
