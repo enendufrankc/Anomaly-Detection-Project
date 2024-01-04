@@ -746,3 +746,11 @@ x==========x]
 ]
 [2024-01-04 20:29:16,363: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
 ]
+[2024-01-04 23:09:47,453: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 23:09:47,472: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 23:09:47,472: INFO: common: created directory at: artifacts]
+[2024-01-04 23:09:47,480: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 23:09:48,566: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-04 23:09:51,139: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
