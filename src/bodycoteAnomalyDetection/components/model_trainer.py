@@ -7,7 +7,7 @@ from keras.layers import Input, LSTM, Dense, RepeatVector, TimeDistributed
 from keras.optimizers import Adam
 from keras.callbacks import EarlyStopping
 from sklearn.preprocessing import MinMaxScaler
-from bodycoteAnomalyDetection.entity import ModelTrainerConfig
+from bodycoteAnomalyDetection.entity.config_entity import ModelTrainerConfig
 
 
 class ModelTrainer:

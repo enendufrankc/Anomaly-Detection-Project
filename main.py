@@ -2,7 +2,7 @@ from bodycoteAnomalyDetection.logging import logger
 from bodycoteAnomalyDetection.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
 from bodycoteAnomalyDetection.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
 from bodycoteAnomalyDetection.pipeline.stage_03_data_transformation import DataTransformationTrainingPipeline
-from bodycoteAnomalyDetection.pipeline.stage_03_data_transformation import ModelTrainerTrainingPipeline
+from bodycoteAnomalyDetection.pipeline.stage_04_model_trainer import ModelTrainerTrainingPipeline
 
 STAGE_NAME = "Data Ingestion stage"
 try:
