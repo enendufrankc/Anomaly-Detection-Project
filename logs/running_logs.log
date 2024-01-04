@@ -256,3 +256,493 @@ x==========x]
 [2024-01-03 15:52:20,198: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x]
+[2024-01-03 17:54:39,221: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 17:55:24,405: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 17:55:24,408: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 17:55:24,410: INFO: common: created directory at: artifacts]
+[2024-01-03 17:55:24,415: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-03 17:56:04,206: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 17:56:04,208: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 17:56:04,211: INFO: common: created directory at: artifacts]
+[2024-01-03 17:56:04,213: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-03 17:56:54,750: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 17:56:58,865: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 17:56:58,870: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 17:56:58,873: INFO: common: created directory at: artifacts]
+[2024-01-03 17:56:58,876: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-03 19:15:15,905: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 19:15:15,908: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 19:15:15,911: INFO: common: created directory at: artifacts]
+[2024-01-03 19:15:15,911: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-03 19:19:44,027: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 19:19:44,029: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 19:19:44,031: INFO: common: created directory at: artifacts]
+[2024-01-03 19:19:44,033: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-03 19:20:17,111: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 19:20:19,788: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 19:20:19,792: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 19:20:19,794: INFO: common: created directory at: artifacts]
+[2024-01-03 19:20:19,796: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-03 19:22:42,484: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 19:22:42,485: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 19:22:42,487: INFO: common: created directory at: artifacts]
+[2024-01-03 19:22:42,489: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-03 19:23:13,561: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 19:23:13,563: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 19:23:13,567: INFO: common: created directory at: artifacts]
+[2024-01-03 19:23:13,569: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-03 19:24:01,084: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 19:24:01,085: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 19:24:01,088: INFO: common: created directory at: artifacts]
+[2024-01-03 19:24:01,091: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-03 19:27:00,858: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-03 19:27:03,414: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-03 19:27:03,417: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-03 19:27:03,418: INFO: common: created directory at: artifacts]
+[2024-01-03 19:27:03,420: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:12:52,212: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:13:00,884: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:13:00,901: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:13:00,903: INFO: common: created directory at: artifacts]
+[2024-01-04 09:13:00,906: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:20:35,917: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:25:36,854: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:25:36,858: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:25:36,862: INFO: common: created directory at: artifacts]
+[2024-01-04 09:25:36,866: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:26:36,560: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:26:36,571: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:26:36,577: INFO: common: created directory at: artifacts]
+[2024-01-04 09:26:36,577: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:28:00,207: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:28:00,215: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:28:00,220: INFO: common: created directory at: artifacts]
+[2024-01-04 09:28:00,225: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:28:26,950: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:28:31,771: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:28:31,774: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:28:31,777: INFO: common: created directory at: artifacts]
+[2024-01-04 09:28:31,777: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:29:12,065: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:29:18,327: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:29:18,334: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:29:18,338: INFO: common: created directory at: artifacts]
+[2024-01-04 09:29:18,344: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:35:25,021: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:35:30,926: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:35:30,935: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:35:30,941: INFO: common: created directory at: artifacts]
+[2024-01-04 09:35:30,947: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:36:11,736: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:36:16,181: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:36:16,184: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:36:16,189: INFO: common: created directory at: artifacts]
+[2024-01-04 09:36:16,191: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:38:31,910: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:38:37,117: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:38:37,121: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:38:37,122: INFO: common: created directory at: artifacts]
+[2024-01-04 09:38:37,126: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:39:45,233: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:39:52,311: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:39:52,318: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:39:52,323: INFO: common: created directory at: artifacts]
+[2024-01-04 09:39:52,327: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:41:33,402: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:41:38,425: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:41:38,425: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:41:38,431: INFO: common: created directory at: artifacts]
+[2024-01-04 09:41:38,431: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:43:19,602: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:43:26,129: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:43:26,139: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:43:26,142: INFO: common: created directory at: artifacts]
+[2024-01-04 09:43:26,145: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:45:27,217: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:45:31,671: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:45:31,674: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:45:31,674: INFO: common: created directory at: artifacts]
+[2024-01-04 09:45:31,680: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:47:32,629: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:47:38,231: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:47:38,237: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:47:38,241: INFO: common: created directory at: artifacts]
+[2024-01-04 09:47:38,243: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:48:22,031: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:48:28,558: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:48:28,561: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:48:28,564: INFO: common: created directory at: artifacts]
+[2024-01-04 09:48:28,565: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 09:52:50,559: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 09:52:55,476: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 09:52:55,476: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 09:52:55,481: INFO: common: created directory at: artifacts]
+[2024-01-04 09:52:55,481: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 10:24:27,566: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 10:24:30,502: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 10:24:30,505: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 10:24:30,507: INFO: common: created directory at: artifacts]
+[2024-01-04 10:24:30,510: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 10:55:48,450: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 10:55:49,740: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-04 10:55:49,752: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 10:55:49,759: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 10:55:49,760: INFO: common: created directory at: artifacts]
+[2024-01-04 10:55:49,760: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-04 10:55:51,789: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 2379510
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "261a5cdab83c381b369cd4921b46b489e8c9c1bfdc4e3dcdd273e889f9a48b39"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5CD6:48E63:4A48126:4DB83FF:65968EB6
+Accept-Ranges: bytes
+Date: Thu, 04 Jan 2024 10:55:53 GMT
+Via: 1.1 varnish
+X-Served-By: cache-man4124-MAN
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1704365753.645740,VS0,VE400
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 174f8bb2252d2e20a8f3b8b512978961d4d1741b
+Expires: Thu, 04 Jan 2024 11:00:53 GMT
+Source-Age: 0
+
+]
+[2024-01-04 10:55:52,059: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-04 10:55:52,060: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-01-04 10:55:52,065: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 10:55:52,066: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 10:55:52,066: INFO: common: created directory at: artifacts]
+[2024-01-04 10:55:52,067: INFO: common: created directory at: artifacts/data_validation]
+[2024-01-04 10:55:52,070: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-01-04 10:55:52,071: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-01-04 10:55:52,076: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 10:55:52,078: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 10:55:52,078: INFO: common: created directory at: artifacts]
+[2024-01-04 10:55:52,085: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 10:55:52,470: ERROR: data_transformation: An error occurred: time data "2023-11-10 00:27:19" doesn't match format "%d/%m/%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.]
+[2024-01-04 10:55:52,471: ERROR: main: time data "2023-11-10 00:27:19" doesn't match format "%d/%m/%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.]
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\1. Projects\Bodycode-Anomaly-Detection-Project\main.py", line 32, in <module>
+    data_transformation.main()
+  File "c:\users\lenovo\1. projects\bodycode-anomaly-detection-project\src\bodycoteAnomalyDetection\pipeline\stage_03_data_transformation.py", line 18, in main
+    data_transformation.process_all_csv()
+  File "c:\users\lenovo\1. projects\bodycode-anomaly-detection-project\src\bodycoteAnomalyDetection\components\data_transformation.py", line 41, in process_all_csv
+    self.convert(file)
+  File "c:\users\lenovo\1. projects\bodycode-anomaly-detection-project\src\bodycoteAnomalyDetection\components\data_transformation.py", line 33, in convert
+    clean_data, data_training = self.data_transformation(df)
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\lenovo\1. projects\bodycode-anomaly-detection-project\src\bodycoteAnomalyDetection\components\data_transformation.py", line 16, in data_transformation
+    example_batch['TimeStamp'] = pd.to_datetime(example_batch['TimeStamp'], format='%d/%m/%Y %H:%M:%S')
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\anaconda3\Lib\site-packages\pandas\core\tools\datetimes.py", line 1050, in to_datetime
+    values = convert_listlike(arg._values, format)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\anaconda3\Lib\site-packages\pandas\core\tools\datetimes.py", line 453, in _convert_listlike_datetimes
+    return _array_strptime_with_fallback(arg, name, utc, format, exact, errors)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\anaconda3\Lib\site-packages\pandas\core\tools\datetimes.py", line 484, in _array_strptime_with_fallback
+    result, timezones = array_strptime(arg, fmt, exact=exact, errors=errors, utc=utc)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas\_libs\tslibs\strptime.pyx", line 530, in pandas._libs.tslibs.strptime.array_strptime
+  File "pandas\_libs\tslibs\strptime.pyx", line 351, in pandas._libs.tslibs.strptime.array_strptime
+ValueError: time data "2023-11-10 00:27:19" doesn't match format "%d/%m/%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+[2024-01-04 11:51:22,191: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 11:51:24,557: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-04 11:51:24,572: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 11:51:24,572: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 11:51:24,572: INFO: common: created directory at: artifacts]
+[2024-01-04 11:51:24,572: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-04 11:51:24,572: INFO: data_ingestion: File already exists of size: ~ 2324 KB]
+[2024-01-04 11:51:24,733: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-04 11:51:24,733: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-01-04 11:51:24,733: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 11:51:24,733: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 11:51:24,733: INFO: common: created directory at: artifacts]
+[2024-01-04 11:51:24,733: INFO: common: created directory at: artifacts/data_validation]
+[2024-01-04 11:51:24,733: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-01-04 11:51:24,733: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-01-04 11:51:24,733: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 11:51:24,733: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 11:51:24,733: INFO: common: created directory at: artifacts]
+[2024-01-04 11:51:24,733: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 11:51:25,105: ERROR: data_transformation: An error occurred: time data "2023-11-10 00:27:19" doesn't match format "%d/%m/%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.]
+[2024-01-04 11:51:25,105: ERROR: main: time data "2023-11-10 00:27:19" doesn't match format "%d/%m/%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.]
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\1. Projects\Bodycode-Anomaly-Detection-Project\main.py", line 32, in <module>
+    data_transformation.main()
+  File "c:\users\lenovo\1. projects\bodycode-anomaly-detection-project\src\bodycoteAnomalyDetection\pipeline\stage_03_data_transformation.py", line 18, in main
+    data_transformation.process_all_csv()
+  File "c:\users\lenovo\1. projects\bodycode-anomaly-detection-project\src\bodycoteAnomalyDetection\components\data_transformation.py", line 41, in process_all_csv
+    self.convert(file)
+  File "c:\users\lenovo\1. projects\bodycode-anomaly-detection-project\src\bodycoteAnomalyDetection\components\data_transformation.py", line 33, in convert
+    clean_data, data_training = self.data_transformation(df)
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\lenovo\1. projects\bodycode-anomaly-detection-project\src\bodycoteAnomalyDetection\components\data_transformation.py", line 16, in data_transformation
+    example_batch['TimeStamp'] = pd.to_datetime(example_batch['TimeStamp'], format='%d/%m/%Y %H:%M:%S')
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\anaconda3\Lib\site-packages\pandas\core\tools\datetimes.py", line 1050, in to_datetime
+    values = convert_listlike(arg._values, format)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\anaconda3\Lib\site-packages\pandas\core\tools\datetimes.py", line 453, in _convert_listlike_datetimes
+    return _array_strptime_with_fallback(arg, name, utc, format, exact, errors)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\anaconda3\Lib\site-packages\pandas\core\tools\datetimes.py", line 484, in _array_strptime_with_fallback
+    result, timezones = array_strptime(arg, fmt, exact=exact, errors=errors, utc=utc)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas\_libs\tslibs\strptime.pyx", line 530, in pandas._libs.tslibs.strptime.array_strptime
+  File "pandas\_libs\tslibs\strptime.pyx", line 351, in pandas._libs.tslibs.strptime.array_strptime
+ValueError: time data "2023-11-10 00:27:19" doesn't match format "%d/%m/%Y %H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+[2024-01-04 11:52:29,634: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 11:52:31,482: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-04 11:52:31,484: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 11:52:31,484: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 11:52:31,484: INFO: common: created directory at: artifacts]
+[2024-01-04 11:52:31,484: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-04 11:52:33,061: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 1290967
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "b4234db9451b8d063a662735324235457eb280f06ad05a534d08f01767eb0efd"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7296:36B05:20DCC97:2243FA7:65969C00
+Accept-Ranges: bytes
+Date: Thu, 04 Jan 2024 11:52:34 GMT
+Via: 1.1 varnish
+X-Served-By: cache-man4148-MAN
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1704369154.068145,VS0,VE321
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: c75e13d1ad20bd546559799f55e0de222d902493
+Expires: Thu, 04 Jan 2024 11:57:34 GMT
+Source-Age: 0
+
+]
+[2024-01-04 11:52:33,206: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-04 11:52:33,208: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-01-04 11:52:33,211: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 11:52:33,214: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 11:52:33,214: INFO: common: created directory at: artifacts]
+[2024-01-04 11:52:33,215: INFO: common: created directory at: artifacts/data_validation]
+[2024-01-04 11:52:33,218: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-01-04 11:52:33,218: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-01-04 11:52:33,225: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 11:52:33,229: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 11:52:33,231: INFO: common: created directory at: artifacts]
+[2024-01-04 11:52:33,237: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 11:52:37,260: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-01-04 11:57:03,017: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 11:57:04,893: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-04 11:57:04,896: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 11:57:04,896: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 11:57:04,905: INFO: common: created directory at: artifacts]
+[2024-01-04 11:57:04,905: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-04 11:57:06,203: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 1290967
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "b4234db9451b8d063a662735324235457eb280f06ad05a534d08f01767eb0efd"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7296:36B05:20DCC97:2243FA7:65969C00
+Accept-Ranges: bytes
+Date: Thu, 04 Jan 2024 11:57:07 GMT
+Via: 1.1 varnish
+X-Served-By: cache-man4137-MAN
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1704369428.526346,VS0,VE0
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ddf9d394415915fc583b2b561c1c7bac525e8657
+Expires: Thu, 04 Jan 2024 12:02:07 GMT
+Source-Age: 273
+
+]
+[2024-01-04 11:57:06,370: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-04 11:57:06,371: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-01-04 11:57:06,373: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 11:57:06,373: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 11:57:06,373: INFO: common: created directory at: artifacts]
+[2024-01-04 11:57:06,375: INFO: common: created directory at: artifacts/data_validation]
+[2024-01-04 11:57:06,376: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-01-04 11:57:06,377: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-01-04 11:57:06,380: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 11:57:06,380: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 11:57:06,383: INFO: common: created directory at: artifacts]
+[2024-01-04 11:57:06,388: INFO: common: created directory at: artifacts/data_transformation]
+[2024-01-04 11:57:10,637: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-01-04 16:56:08,080: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 16:56:18,246: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-04 16:57:49,518: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 17:01:13,033: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 17:01:13,048: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 17:01:13,050: INFO: common: created directory at: artifacts]
+[2024-01-04 17:01:13,052: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 17:07:03,305: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 17:07:19,072: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-04 17:07:19,819: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 17:07:19,826: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 17:07:19,828: INFO: common: created directory at: artifacts]
+[2024-01-04 17:07:19,834: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 17:47:01,070: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 17:47:01,075: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 17:47:01,080: INFO: common: created directory at: artifacts]
+[2024-01-04 17:47:01,082: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 18:43:32,904: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 18:43:42,214: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-04 18:43:43,143: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 18:43:43,152: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 18:43:43,155: INFO: common: created directory at: artifacts]
+[2024-01-04 18:43:43,158: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 18:50:15,132: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 18:50:27,330: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-04 18:50:28,687: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 18:50:28,695: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 18:50:28,702: INFO: common: created directory at: artifacts]
+[2024-01-04 18:50:28,704: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 18:56:47,460: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 18:56:55,743: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-04 18:56:56,331: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 18:56:56,343: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 18:56:56,347: INFO: common: created directory at: artifacts]
+[2024-01-04 18:56:56,349: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 18:57:42,922: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 18:57:51,408: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-04 18:57:51,937: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 18:57:51,942: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 18:57:51,945: INFO: common: created directory at: artifacts]
+[2024-01-04 18:57:51,946: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 19:17:31,516: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 19:17:39,518: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-04 19:17:40,271: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 19:17:40,296: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 19:17:40,300: INFO: common: created directory at: artifacts]
+[2024-01-04 19:17:40,303: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 19:22:00,023: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 19:22:09,377: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-04 19:22:10,122: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 19:22:10,140: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 19:22:10,143: INFO: common: created directory at: artifacts]
+[2024-01-04 19:22:10,145: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 19:23:58,654: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 19:23:58,670: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 19:23:58,673: INFO: common: created directory at: artifacts]
+[2024-01-04 19:23:58,676: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 19:39:11,391: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 19:39:41,754: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 19:39:52,107: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-04 19:39:52,882: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 19:39:52,899: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 19:39:52,901: INFO: common: created directory at: artifacts]
+[2024-01-04 19:39:52,903: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 19:41:07,414: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 19:41:15,709: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-04 19:41:16,297: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 19:41:16,304: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 19:41:16,306: INFO: common: created directory at: artifacts]
+[2024-01-04 19:41:16,308: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 19:53:10,149: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 19:53:10,154: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 19:53:10,158: INFO: common: created directory at: artifacts]
+[2024-01-04 19:53:10,161: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 19:54:09,163: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 19:54:09,169: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 19:54:09,173: INFO: common: created directory at: artifacts]
+[2024-01-04 19:54:09,175: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 19:55:49,476: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 19:55:49,491: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 19:55:49,493: INFO: common: created directory at: artifacts]
+[2024-01-04 19:55:49,496: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 19:56:22,731: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 19:56:22,735: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 19:56:22,738: INFO: common: created directory at: artifacts]
+[2024-01-04 19:56:22,741: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 20:09:59,610: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-04 20:10:10,110: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-04 20:10:11,290: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 20:10:11,297: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 20:10:11,300: INFO: common: created directory at: artifacts]
+[2024-01-04 20:10:11,303: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 20:27:33,219: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 20:27:33,223: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 20:27:33,224: INFO: common: created directory at: artifacts]
+[2024-01-04 20:27:33,227: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 20:29:14,118: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-04 20:29:14,131: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-04 20:29:14,132: INFO: common: created directory at: artifacts]
+[2024-01-04 20:29:14,134: INFO: common: created directory at: artifacts/model_trainer]
+[2024-01-04 20:29:14,526: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-04 20:29:16,363: WARNING: module_wrapper: From c:\Users\LENOVO\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]

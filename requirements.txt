@@ -16,4 +16,6 @@ scipy
 Flask
 Flask-Cors
 dill
+tensorflow
+keras
 -e .
