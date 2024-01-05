@@ -27,11 +27,19 @@ class ModelTrainer:
         scaler_filename = os.path.join(self.config.root_dir, "scaler_data.joblib")
         joblib.dump(scaler, scaler_filename)
         return X_scaled
+    
+    def inverse_scaler(self, X_scaled):
+        scaler_path = os.path.join(self.config.root_dir, "scaler_data.joblib")
+        scaler = joblib.load(scaler_path)
+        return scaler.inverse_transform(X_scaled)
 
     def data_reshaper(self, X_scaled):
         X_reshaped = X_scaled.reshape(X_scaled.shape[0], 1, X_scaled.shape[1])
         self.input_shape = X_reshaped.shape[1:]
         return X_reshaped
+    
+    def data_flattening(self, X_reshaped):
+        return X_reshaped.reshape(-1, X_reshaped.shape[-1])
 
     def create_model(self, hp):
         input_shape = self.input_shape
@@ -60,7 +68,7 @@ class ModelTrainer:
             objective='val_loss',
             max_trials=self.config.max_trials,
             executions_per_trial=self.config.executions_per_trial,
-            directory=os.path.join(self.config.root_dir, 'my_dir'),
+            directory=os.path.join(self.config.root_dir, 'Para_storer'),
             project_name='hparam_tuning'
         )
 

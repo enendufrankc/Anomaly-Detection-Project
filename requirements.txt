@@ -18,4 +18,5 @@ Flask-Cors
 dill
 tensorflow
 keras
+keras_tuner
 -e .

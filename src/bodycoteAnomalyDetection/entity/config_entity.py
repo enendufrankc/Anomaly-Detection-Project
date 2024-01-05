@@ -40,3 +40,12 @@ class ModelTrainerConfig:
     final_epochs: int
     final_batch_size: int
     final_validation_split: float
+
+
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    root_dir: Path
+    data_path: Path
+    model_path: Path
+    scaler_path: Path
+    metric_file_name: Path

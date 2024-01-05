@@ -22,3 +22,10 @@ model_trainer:
   root_dir: artifacts/model_trainer
   data_path: artifacts/data_transformation/data_training.csv
   model_ckpt: artifacts/model_trainer/model_ckpt
+
+model_evaluation:
+  root_dir: artifacts/model_evaluation
+  data_path: artifacts/data_transformation/data_training.csv
+  model_path: artifacts/model_trainer/anomaly_detector_model.keras
+  scaler_path: artifacts/model_trainer/scaler_data.joblib
+  metric_file_name: artifacts/model_evaluation/metric.csv
